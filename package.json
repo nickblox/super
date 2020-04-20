@@ -1,0 +1,9 @@
+{
+  "name": "super",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "run": "node --experimental-modules --es-module-specifier-resolution=node index.js"
+  },
+  "dependencies": {}
+}
